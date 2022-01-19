@@ -1,0 +1,16 @@
+D:\dev\EditorHTML\bin\Debug\net5.0\EditorHTML.exe
+D:\dev\EditorHTML\bin\Debug\net5.0\EditorHTML.deps.json
+D:\dev\EditorHTML\bin\Debug\net5.0\EditorHTML.runtimeconfig.json
+D:\dev\EditorHTML\bin\Debug\net5.0\EditorHTML.runtimeconfig.dev.json
+D:\dev\EditorHTML\bin\Debug\net5.0\EditorHTML.dll
+D:\dev\EditorHTML\bin\Debug\net5.0\ref\EditorHTML.dll
+D:\dev\EditorHTML\bin\Debug\net5.0\EditorHTML.pdb
+D:\dev\EditorHTML\obj\Debug\net5.0\EditorHTML.csproj.AssemblyReference.cache
+D:\dev\EditorHTML\obj\Debug\net5.0\EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\EditorHTML\obj\Debug\net5.0\EditorHTML.AssemblyInfoInputs.cache
+D:\dev\EditorHTML\obj\Debug\net5.0\EditorHTML.AssemblyInfo.cs
+D:\dev\EditorHTML\obj\Debug\net5.0\EditorHTML.csproj.CoreCompileInputs.cache
+D:\dev\EditorHTML\obj\Debug\net5.0\EditorHTML.dll
+D:\dev\EditorHTML\obj\Debug\net5.0\ref\EditorHTML.dll
+D:\dev\EditorHTML\obj\Debug\net5.0\EditorHTML.pdb
+D:\dev\EditorHTML\obj\Debug\net5.0\EditorHTML.genruntimeconfig.cache
